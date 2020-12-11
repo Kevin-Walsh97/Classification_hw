@@ -12,8 +12,8 @@
 
 1) The model with the best balanced accuracy score is the Easy Ensemble Classifier. This model uses boosting to train weak learners sequentially by learning from the mistakes of previous learners. 
 
-2) Both models, the Easy Ensemble Classifier and the Balanced Random Forest Classifier, had identical recall scores between them. This takes into account both high and low risk loan applicants. 
+2) The Easy Ensemble Classifier had the higest recall score.
 
-3) Both models have identical geometric mean scores.
+3) The Easy Ensemble Classifier had the higest geometric score.
 
-4) total_rec_prncp,total_pymnt, and total_pymnt_inv are the three most import features.
+4) total_rec_prncp, total_pymnt, and total_pymnt_inv are the three most import features.
